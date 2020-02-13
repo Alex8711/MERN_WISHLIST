@@ -9,7 +9,7 @@
     "server": "nodemon server.js",
     "client": "npm start --prefix client cd client",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
-    "heroku-postbuild": "yarn install --prefix client && npm run build "
+    "heroku-postbuild": "yarn install --prefix client && npm run build --prefix client"
   },
   "author": "Alex",
   "license": "MIT",
