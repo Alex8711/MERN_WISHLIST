@@ -1,5 +1,12 @@
 # MERN_WISHLIST
 
+Live demo
+https://wishlist-alex.herokuapp.com/
+
+You can view, edit, create and delete a wish on this website. 
+React, Redux, Javascript, Material-UI, MongoDB, Express, Node.js are used in this project.
+Thanks!
+
 # Install dependencies for server
 npm install
 
